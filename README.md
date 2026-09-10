@@ -8,7 +8,7 @@ Ceará. Semestre 2026.2.
 
 ## Acesso
 
-O material está publicado em **[https://SEU-USUARIO.github.io/SEU-REPOSITORIO/](https://paulo-parente.github.io/FC1-20262/)**
+O material está publicado em **[https://paulo-parente.github.io/FC1-20262/](https://paulo-parente.github.io/FC1-20262/)**
 
 Basta abrir o endereço em qualquer navegador, no computador ou no celular. Nada precisa ser
 instalado e nada é enviado a servidor nenhum: as marcações de progresso e a escolha de tema
